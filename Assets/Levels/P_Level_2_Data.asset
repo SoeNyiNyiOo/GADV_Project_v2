@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03ecc452c8ee2f34f88c4a1e8aff9df9, type: 3}
+  m_Name: P_Level_2_Data
+  m_EditorClassIdentifier: 
+  levelName: Level - 2
+  levelIndex: 2
+  gameMode: 1
+  questions:
+  - word: Sun
+    correctImage: {fileID: 21300000, guid: fab973c8b04f32343b14248f2934eaf0, type: 3}
+  - word: Cap
+    correctImage: {fileID: 21300000, guid: 97f4991d3c008e64f9503542cc5d8969, type: 3}
+  - word: Egg
+    correctImage: {fileID: 21300000, guid: e49f9b5d0c7459e4b92d91c2ec8decee, type: 3}
+  - word: Dog
+    correctImage: {fileID: 21300000, guid: 9b3a96a79810cc540a4090dc404da846, type: 3}
+  - word: Bag
+    correctImage: {fileID: 21300000, guid: 5653633ee2aa2434f8d9fb5eb7bf847d, type: 3}
+  - word: Fish
+    correctImage: {fileID: 21300000, guid: c4354df55d9b65f438516e952266568c, type: 3}
+  - word: Table
+    correctImage: {fileID: 21300000, guid: 1751b9e1ab79ae24681767eb2cddf710, type: 3}
+  - word: Chair
+    correctImage: {fileID: 21300000, guid: 90a2c234a2b82e3488eb7ae89cdbff92, type: 3}
+  distractorWords: []
+  distractorImages:
+  - {fileID: 1849209686, guid: fe52788dbf602724b983fac6db6190a8, type: 3}
+  - {fileID: 21300000, guid: f30c5d0cdd8f2cf4cb0173fd265215de, type: 3}
+  - {fileID: 21300000, guid: 0cd7ee4933b0fe547b5743cc558d8e6c, type: 3}
+  - {fileID: 21300000, guid: 268d400bcd4c9b748b479a5676105db0, type: 3}
+  - {fileID: 21300000, guid: 075a2b446fae62b4cafcc1b6ef696a02, type: 3}
+  - {fileID: 21300000, guid: 5704145341448e14e923eef81ea07d46, type: 3}
+  - {fileID: 21300000, guid: 35b3411bd45ce004ca7a7eaff6d3c976, type: 3}

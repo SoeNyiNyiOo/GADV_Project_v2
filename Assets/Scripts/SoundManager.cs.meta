@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9b7daf4f1d8315d4ab6c4a84898dc6a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonClickSound: {instanceID: 0}
+  - correctPopupSound: {instanceID: 0}
+  - wrongPopupSound: {instanceID: 0}
+  - winSound: {instanceID: 0}
+  - loseSound: {instanceID: 0}
+  - menuBGM: {instanceID: 0}
+  - gameBGM: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

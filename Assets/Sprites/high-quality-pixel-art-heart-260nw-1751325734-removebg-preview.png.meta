@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: fe52788dbf602724b983fac6db6190a8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 30
+        width: 182
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68afac8b959fa9c439c5d9a1e005c79e
+      internalID: 1849209686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 31
+        width: 160
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a1caa77e2efa48a459702d980a156
+      internalID: -1190287026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 29
+        width: 179
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03c33aed75dbdb439ce2951a3ded471
+      internalID: 143387738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 32
+        width: 174
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f4c06da3e3b854ba5dd20317b5e8d2
+      internalID: -776079714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 31
+        width: 176
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e84c6cc5a1b4fa4783975880fc340c4
+      internalID: -1849069132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_0: 1849209686
+      high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_1: -1190287026
+      high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_10: 1133142477
+      high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_11: 2019383192
+      high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_12: -1844463880
+      high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_13: -472552331
+      high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_14: -1020958435
+      high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_15: -880117179
+      high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_2: 143387738
+      high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_3: -776079714
+      high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_4: -1849069132
+      high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_5: -761255931
+      high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_6: 933874052
+      high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_7: -1357569306
+      high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_8: -2071645775
+      high-quality-pixel-art-heart-260nw-1751325734-removebg-preview_9: 716680775
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
